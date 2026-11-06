@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ct7i3q3ivxqnn"
+path="res://.godot/imported/impact_3.ogg-01aaf9ebeba7c6d7072af7708ef281a7.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Impacts/impact_3.ogg"
+dest_files=["res://.godot/imported/impact_3.ogg-01aaf9ebeba7c6d7072af7708ef281a7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

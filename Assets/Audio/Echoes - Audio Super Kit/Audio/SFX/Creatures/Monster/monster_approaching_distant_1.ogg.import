@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cn0yvbcst5qag"
+path="res://.godot/imported/monster_approaching_distant_1.ogg-710977c2a39eab5f9fb1122b5b6547cc.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Creatures/Monster/monster_approaching_distant_1.ogg"
+dest_files=["res://.godot/imported/monster_approaching_distant_1.ogg-710977c2a39eab5f9fb1122b5b6547cc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

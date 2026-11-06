@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dx1fa4i0qdyrg"
+path="res://.godot/imported/shotgun_2.ogg-f4c968cacab2f6d498678fe06d7f818b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Guns/shotgun_2.ogg"
+dest_files=["res://.godot/imported/shotgun_2.ogg-f4c968cacab2f6d498678fe06d7f818b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

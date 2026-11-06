@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ogbaex763c2h"
+path="res://.godot/imported/heavy_door_open-close_1.ogg-ded35849688c364a159ef8232e4253b7.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Doors & Drawers/heavy_door_open-close_1.ogg"
+dest_files=["res://.godot/imported/heavy_door_open-close_1.ogg-ded35849688c364a159ef8232e4253b7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

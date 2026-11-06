@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c6gss4fgobdx7"
+path="res://.godot/imported/sfx_cinematic_67.ogg-f125845e8d2613af0dd1fbf1c377175d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Cinematic/sfx_cinematic_67.ogg"
+dest_files=["res://.godot/imported/sfx_cinematic_67.ogg-f125845e8d2613af0dd1fbf1c377175d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

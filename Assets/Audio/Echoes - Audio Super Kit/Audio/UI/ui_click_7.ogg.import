@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dna23r1qnd5gd"
+path="res://.godot/imported/ui_click_7.ogg-7da4d8e72c8fd6eb12dc4f4052bf8b4e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/UI/ui_click_7.ogg"
+dest_files=["res://.godot/imported/ui_click_7.ogg-7da4d8e72c8fd6eb12dc4f4052bf8b4e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

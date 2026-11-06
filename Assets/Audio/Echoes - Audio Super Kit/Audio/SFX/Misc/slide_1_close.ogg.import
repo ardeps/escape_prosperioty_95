@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d0ukvm5oiouw7"
+path="res://.godot/imported/slide_1_close.ogg-9161db082043431b544ab0f27f16272d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Misc/slide_1_close.ogg"
+dest_files=["res://.godot/imported/slide_1_close.ogg-9161db082043431b544ab0f27f16272d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

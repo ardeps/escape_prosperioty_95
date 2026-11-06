@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c8274d0u7a5te"
+path="res://.godot/imported/explosion_1.ogg-de523f0ef1c1861603844ad6dfdaf20f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Explosions/explosion_1.ogg"
+dest_files=["res://.godot/imported/explosion_1.ogg-de523f0ef1c1861603844ad6dfdaf20f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

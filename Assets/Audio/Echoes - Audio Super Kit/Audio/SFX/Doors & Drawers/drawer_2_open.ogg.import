@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://doebxb52wcv84"
+path="res://.godot/imported/drawer_2_open.ogg-9af543333dc1fe4f52b21a50eab82020.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Doors & Drawers/drawer_2_open.ogg"
+dest_files=["res://.godot/imported/drawer_2_open.ogg-9af543333dc1fe4f52b21a50eab82020.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,27 @@
+# Godot 4 auto-generated import assets and cache
+.godot/
+
+# Exported binaries / build artifacts
+*.apk
+*.aab
+*.exe
+*.zip
+*.tar.gz
+*.7z
+*.app
+*.ipa
+
+# System and editor temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+
+# Mono/C# specific (if using C# in Godot)
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.csproj.user

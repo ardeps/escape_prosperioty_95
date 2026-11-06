@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cmvtgv4vvr3rj"
+path="res://.godot/imported/no way out (complete track).ogg-2288a15aeeb2cc731d7d44e61a3ff9c2.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/Soundtracks/no way out (complete track).ogg"
+dest_files=["res://.godot/imported/no way out (complete track).ogg-2288a15aeeb2cc731d7d44e61a3ff9c2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c74vdjb5qjbpi"
+path="res://.godot/imported/too late (loop).ogg-22cb272414a1cf2d46ddbfc5abe32c03.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/Soundtracks/too late (loop).ogg"
+dest_files=["res://.godot/imported/too late (loop).ogg-22cb272414a1cf2d46ddbfc5abe32c03.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://sqp54a32211h"
+path="res://.godot/imported/sci-fi_4_loop.ogg-f764a5174b62f355a6869b45e4b3dafd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/# Bonus Content/Pure Sci-Fi/sci-fi_4_loop.ogg"
+dest_files=["res://.godot/imported/sci-fi_4_loop.ogg-f764a5174b62f355a6869b45e4b3dafd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

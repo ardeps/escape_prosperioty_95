@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://rsd6cbrx5u14"
+path="res://.godot/imported/analog_computer_beep_4.ogg-68067388e5e0b1ca16f9100704bf1475.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Electronics/analog_computer_beep_4.ogg"
+dest_files=["res://.godot/imported/analog_computer_beep_4.ogg-68067388e5e0b1ca16f9100704bf1475.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

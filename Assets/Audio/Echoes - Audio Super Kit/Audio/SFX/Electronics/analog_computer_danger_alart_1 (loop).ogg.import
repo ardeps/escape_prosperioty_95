@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cvwu885qevj6"
+path="res://.godot/imported/analog_computer_danger_alart_1 (loop).ogg-90eba0928f17aa2ca05e494c5cc9f8cb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Electronics/analog_computer_danger_alart_1 (loop).ogg"
+dest_files=["res://.godot/imported/analog_computer_danger_alart_1 (loop).ogg-90eba0928f17aa2ca05e494c5cc9f8cb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dpp5glws028jg"
+path="res://.godot/imported/monster_roar_5.ogg-f7857f5d18999bb5d3237a4331cbff3c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Creatures/Monster/monster_roar_5.ogg"
+dest_files=["res://.godot/imported/monster_roar_5.ogg-f7857f5d18999bb5d3237a4331cbff3c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

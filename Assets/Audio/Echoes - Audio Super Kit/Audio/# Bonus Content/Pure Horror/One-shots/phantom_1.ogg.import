@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d4jllgexqekvr"
+path="res://.godot/imported/phantom_1.ogg-66842426f34a5a529c119859ae152e24.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/# Bonus Content/Pure Horror/One-shots/phantom_1.ogg"
+dest_files=["res://.godot/imported/phantom_1.ogg-66842426f34a5a529c119859ae152e24.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

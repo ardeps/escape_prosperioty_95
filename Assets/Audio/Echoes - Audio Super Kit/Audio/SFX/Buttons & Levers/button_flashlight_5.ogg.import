@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://is3w7bu6i3tt"
+path="res://.godot/imported/button_flashlight_5.ogg-d5c74dbba0719001f13b8e5822350317.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/SFX/Buttons & Levers/button_flashlight_5.ogg"
+dest_files=["res://.godot/imported/button_flashlight_5.ogg-d5c74dbba0719001f13b8e5822350317.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

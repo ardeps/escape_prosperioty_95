@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://btgfbo1qb1hfx"
+path="res://.godot/imported/ambience_d35_loop.wav-29ba31e3d5dee1d35f916ea8c2ae70a0.sample"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/Ambiences/ambience_d35_loop.wav"
+dest_files=["res://.godot/imported/ambience_d35_loop.wav-29ba31e3d5dee1d35f916ea8c2ae70a0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

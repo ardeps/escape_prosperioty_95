@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d372whbitweb1"
+path="res://.godot/imported/undercover (start).ogg-c1a7622ee523b3872f237d74efec3fd4.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/Soundtracks/undercover (start).ogg"
+dest_files=["res://.godot/imported/undercover (start).ogg-c1a7622ee523b3872f237d74efec3fd4.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

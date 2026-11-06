@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dqsna4pe76xxk"
+path="res://.godot/imported/sub_tones_loop_1_2.ogg-46a167eb68a7ca3b38afcf6510fb36cf.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Echoes - Audio Super Kit/Audio/# Bonus Content/Pure Horror/Loops/sub_tones_loop_1_2.ogg"
+dest_files=["res://.godot/imported/sub_tones_loop_1_2.ogg-46a167eb68a7ca3b38afcf6510fb36cf.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
