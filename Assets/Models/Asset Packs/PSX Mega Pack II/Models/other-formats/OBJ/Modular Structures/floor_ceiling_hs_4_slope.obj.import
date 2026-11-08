@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ctq7fi7kfgol1"
+path="res://.godot/imported/floor_ceiling_hs_4_slope.obj-f5a6eee2280ea40c3c8ba8438681e062.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_ceiling_hs_4_slope.obj-f5a6eee2280ea40c3c8ba8438681e062.mesh"]
+
+source_file="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/other-formats/OBJ/Modular Structures/floor_ceiling_hs_4_slope.obj"
+dest_files=["res://.godot/imported/floor_ceiling_hs_4_slope.obj-f5a6eee2280ea40c3c8ba8438681e062.mesh", "res://.godot/imported/floor_ceiling_hs_4_slope.obj-f5a6eee2280ea40c3c8ba8438681e062.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

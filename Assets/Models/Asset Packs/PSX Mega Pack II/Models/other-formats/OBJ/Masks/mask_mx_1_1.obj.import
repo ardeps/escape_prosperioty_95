@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://nbojeh1rmq7b"
+path="res://.godot/imported/mask_mx_1_1.obj-2e8010747dd01bf4252a877ca02c44ff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mask_mx_1_1.obj-2e8010747dd01bf4252a877ca02c44ff.mesh"]
+
+source_file="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/other-formats/OBJ/Masks/mask_mx_1_1.obj"
+dest_files=["res://.godot/imported/mask_mx_1_1.obj-2e8010747dd01bf4252a877ca02c44ff.mesh", "res://.godot/imported/mask_mx_1_1.obj-2e8010747dd01bf4252a877ca02c44ff.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

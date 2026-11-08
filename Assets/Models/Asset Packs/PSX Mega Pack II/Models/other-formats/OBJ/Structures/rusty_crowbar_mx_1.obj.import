@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://sv8rrlqjjd5a"
+path="res://.godot/imported/rusty_crowbar_mx_1.obj-b68f08bdc2ef025528bb3b14cd078bdb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rusty_crowbar_mx_1.obj-b68f08bdc2ef025528bb3b14cd078bdb.mesh"]
+
+source_file="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/other-formats/OBJ/Structures/rusty_crowbar_mx_1.obj"
+dest_files=["res://.godot/imported/rusty_crowbar_mx_1.obj-b68f08bdc2ef025528bb3b14cd078bdb.mesh", "res://.godot/imported/rusty_crowbar_mx_1.obj-b68f08bdc2ef025528bb3b14cd078bdb.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

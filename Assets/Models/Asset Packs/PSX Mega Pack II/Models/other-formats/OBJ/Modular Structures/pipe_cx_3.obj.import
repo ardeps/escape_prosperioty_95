@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b3n13dv6jvuxk"
+path="res://.godot/imported/pipe_cx_3.obj-7f039b41e9951a983c2d6f3109c3b713.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pipe_cx_3.obj-7f039b41e9951a983c2d6f3109c3b713.mesh"]
+
+source_file="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/other-formats/OBJ/Modular Structures/pipe_cx_3.obj"
+dest_files=["res://.godot/imported/pipe_cx_3.obj-7f039b41e9951a983c2d6f3109c3b713.mesh", "res://.godot/imported/pipe_cx_3.obj-7f039b41e9951a983c2d6f3109c3b713.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

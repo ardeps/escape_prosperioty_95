@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyrgqxdwlx2a1"
+path="res://.godot/imported/wrench_mx_2.obj-6692934c47e055aaa3fc18bd091f8b49.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wrench_mx_2.obj-6692934c47e055aaa3fc18bd091f8b49.mesh"]
+
+source_file="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/other-formats/OBJ/Weapons & Tools/wrench_mx_2.obj"
+dest_files=["res://.godot/imported/wrench_mx_2.obj-6692934c47e055aaa3fc18bd091f8b49.mesh", "res://.godot/imported/wrench_mx_2.obj-6692934c47e055aaa3fc18bd091f8b49.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

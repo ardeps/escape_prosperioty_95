@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://c3pix611bie7w"]
+
+[ext_resource type="PackedScene" uid="uid://b6pwxknjge2oq" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/floor_ceiling_2.glb" id="1_a202f"]
+[ext_resource type="PackedScene" uid="uid://ckfrhqkodexry" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/wall_1.glb" id="2_noarx"]
+
+[node name="Node3D" type="Node3D" unique_id=283505702]
+
+[node name="floor_ceiling_22" parent="." unique_id=1615243346 instance=ExtResource("1_a202f")]
+
+[node name="floor_ceiling_23" parent="." unique_id=1768990971 instance=ExtResource("1_a202f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 0)
+
+[node name="wall_13" parent="." unique_id=1371292898 instance=ExtResource("2_noarx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, -2)
+
+[node name="floor_ceiling_24" parent="." unique_id=879947156 instance=ExtResource("1_a202f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 4)
