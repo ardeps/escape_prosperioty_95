@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bg3ia2v003u0m"
-path="res://.godot/imported/zombieNaked.blend-24558d935e0bb5695b3f5985bd3c7c91.scn"
+valid=false
 
 [deps]
 
 source_file="res://Assets/Models/Asset Packs/Asylum Zombie/NoFace/zombieNaked.blend"
-dest_files=["res://.godot/imported/zombieNaked.blend-24558d935e0bb5695b3f5985bd3c7c91.scn"]
 
 [params]
 
