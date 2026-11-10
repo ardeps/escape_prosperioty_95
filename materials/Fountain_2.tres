@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bof2osrak1cx3"]
+
+[ext_resource type="Texture2D" uid="uid://ckp4u05ci4t81" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Fountain_2_Fountain_2_Base_color.png" id="1_q73he"]
+
+[resource]
+resource_name = "Fountain_2"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_q73he")

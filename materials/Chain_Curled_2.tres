@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cfb1orkms1qo3"]
+
+[ext_resource type="Texture2D" uid="uid://b7ys1t04ctgj8" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Chain_Curled_2_Chain_Curled_2_Base_color.png" id="1_67616"]
+
+[resource]
+resource_name = "Chain_Curled_2"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_67616")

@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dhrg3k23l5kb5"]
+
+[ext_resource type="Texture2D" uid="uid://b4y74u7d54lbs" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Wall_1_Wall_1_Base_color_Alternative_2.png" id="1_6hh8p"]
+
+[resource]
+resource_name = "Wall_1"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_6hh8p")

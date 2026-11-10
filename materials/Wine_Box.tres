@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://6igj211hi34q"]
+
+[ext_resource type="Texture2D" uid="uid://dtw2xp68teqi1" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Wine_Box_Wine_Box_Base_color.png" id="1_sf3q5"]
+
+[resource]
+resource_name = "Wine_Box"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_sf3q5")

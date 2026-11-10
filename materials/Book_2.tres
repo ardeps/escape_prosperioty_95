@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c51aatur0ewq0"]
+
+[ext_resource type="Texture2D" uid="uid://cfq52nrtgr1vp" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Book_2_Book_2_Base_color.png" id="1_gmhwg"]
+
+[resource]
+resource_name = "Book_2"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_gmhwg")

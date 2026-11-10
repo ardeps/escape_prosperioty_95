@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://15w8h5edhuuh"]
+
+[ext_resource type="Texture2D" uid="uid://d3ldd5aoktdfj" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Brazier_1_Brazier_1_Base_color.png" id="1_l51qp"]
+
+[resource]
+resource_name = "Brazier_1"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_l51qp")

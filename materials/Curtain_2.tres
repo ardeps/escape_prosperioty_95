@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bbiflcxfmqsfd"]
+
+[ext_resource type="Texture2D" uid="uid://cx5biqgcdqqga" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Curtain_2_Curtain_2_Base_color.png" id="1_n7d8a"]
+
+[resource]
+resource_name = "Curtain_2"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_n7d8a")

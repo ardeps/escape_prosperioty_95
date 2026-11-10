@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://b8w074upjvmwa"]
+
+[ext_resource type="Texture2D" uid="uid://bd0lx4bepbws3" path="res://Assets/Models/Asset Packs/Individual_Assets/glb_files/Spike_Fence_Variant_2_Spike_Fence_Variant_2_Base_color_Alternative_2.png" id="1_jgxex"]
+
+[resource]
+resource_name = "Spike_Fence_Variant_2"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+metallic = 1.0
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_operator = 1
+emission_texture = ExtResource("1_jgxex")
