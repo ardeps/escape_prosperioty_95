@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://vfnsm8aaufaq"]
+
+[ext_resource type="Texture2D" uid="uid://cshkuiin3c3ln" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/door_mp_1_loose_door_handle_1.png" id="1_vh3tu"]
+
+[resource]
+resource_name = "door_handle_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_vh3tu")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

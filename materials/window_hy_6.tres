@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bldrkyd7cbh8s"]
+
+[ext_resource type="Texture2D" uid="uid://brvlvpwiv77wm" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/roof_mh_4_b_4_window_hy_6.png" id="1_31fxp"]
+
+[resource]
+resource_name = "window_hy_6"
+cull_mode = 2
+albedo_texture = ExtResource("1_31fxp")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

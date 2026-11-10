@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cpxsow7kkij7s"]
+
+[ext_resource type="Texture2D" uid="uid://b0u5tl5yxr72r" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/wooden_crate_hx_4_plastic_cover_mx_2.png" id="1_3dyd3"]
+
+[resource]
+resource_name = "plastic_cover_mx_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_3dyd3")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

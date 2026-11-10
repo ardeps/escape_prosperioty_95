@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bdwvjb2d3f3q8"]
+
+[ext_resource type="Texture2D" uid="uid://b8btvni7ek8nt" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/cement_bags_mp_1_pallet_2_wood_mx_4.png" id="1_18054"]
+
+[resource]
+resource_name = "wood_mx_4"
+cull_mode = 2
+albedo_texture = ExtResource("1_18054")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

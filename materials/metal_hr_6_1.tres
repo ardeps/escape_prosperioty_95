@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cdjyg64ols7n8"]
+
+[ext_resource type="Texture2D" uid="uid://cqwbcba2yb8kc" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Large Props & Machinery/portal_mx_1_metal_hr_6_1.png" id="1_3md8y"]
+
+[resource]
+resource_name = "metal_hr_6_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_3md8y")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

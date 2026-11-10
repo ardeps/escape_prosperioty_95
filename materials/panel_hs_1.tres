@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://2dssgwnxvbmb"]
+
+[ext_resource type="Texture2D" uid="uid://cjkaibmu5k6mm" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/roof_mh_3_panel_hs_1.png" id="1_lux4f"]
+
+[resource]
+resource_name = "panel_hs_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_lux4f")
+roughness = 0.0
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

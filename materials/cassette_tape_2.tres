@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dtt2k7xgn5pvd"]
+
+[ext_resource type="Texture2D" uid="uid://bwky8mge21gxo" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/cassette_tape_mp_2_cassette_tape_2.png" id="1_6qsa7"]
+
+[resource]
+resource_name = "cassette_tape_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_6qsa7")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

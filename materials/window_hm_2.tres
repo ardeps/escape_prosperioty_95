@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bhxljls25oug4"]
+
+[ext_resource type="Texture2D" uid="uid://b5ngftxhr0bbs" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/window_rg_1_window_hm_2.png" id="1_raycb"]
+
+[resource]
+resource_name = "window_hm_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_raycb")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://biwggrt0f367s"]
+
+[ext_resource type="Texture2D" uid="uid://cc8m7j0ax0ye1" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/scrap_metal_mx_1_2_metal_hr_7.png" id="1_ur3s4"]
+
+[resource]
+resource_name = "metal_hr_7"
+cull_mode = 2
+albedo_texture = ExtResource("1_ur3s4")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

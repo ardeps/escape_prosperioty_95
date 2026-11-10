@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cp8nwbtcrc1lf"]
+
+[ext_resource type="Texture2D" uid="uid://dbfyaij3uqcvw" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/floor_ceiling_rx_1_tile_floor_mx_3.png" id="1_ndnse"]
+
+[resource]
+resource_name = "tile_floor_mx_3"
+cull_mode = 2
+albedo_texture = ExtResource("1_ndnse")
+roughness = 0.0
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

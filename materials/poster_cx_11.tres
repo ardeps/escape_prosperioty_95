@@ -1,0 +1,14 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c3ghii0vvy6uo"]
+
+[ext_resource type="Texture2D" uid="uid://b67lkhi6flwhg" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Decals/poster_cx_11_poster_cx_11.png" id="1_jclfj"]
+
+[resource]
+resource_name = "poster_cx_11"
+transparency = 2
+alpha_scissor_threshold = 0.5
+alpha_antialiasing_mode = 0
+cull_mode = 2
+albedo_texture = ExtResource("1_jclfj")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

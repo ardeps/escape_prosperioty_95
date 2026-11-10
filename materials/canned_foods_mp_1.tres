@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://b6jumvia7p14d"]
+
+[ext_resource type="Texture2D" uid="uid://dakx1hrf7hja" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Large Props/supply_crate_1_4_canned_foods_mp_1.png" id="1_0neyd"]
+
+[resource]
+resource_name = "canned_foods_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_0neyd")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

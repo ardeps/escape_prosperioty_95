@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://do6rofm43yf70"]
+
+[ext_resource type="Texture2D" uid="uid://bn4cs2fbaeyv8" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/side_doorway_3_door_frame_wood_1.png" id="1_uadcp"]
+
+[resource]
+resource_name = "door_frame_wood_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_uadcp")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

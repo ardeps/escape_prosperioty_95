@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dlwujkydwlirn"]
+
+[ext_resource type="Texture2D" uid="uid://b5kao2stjtwl8" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Doors & Gates/door_hr_13_door_hr_13.png" id="1_r1eg8"]
+
+[resource]
+resource_name = "door_hr_13"
+cull_mode = 2
+albedo_texture = ExtResource("1_r1eg8")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

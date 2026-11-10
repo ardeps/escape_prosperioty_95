@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cblrpy2fxoysh"]
+
+[ext_resource type="Texture2D" uid="uid://c3ffqkext0041" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Furniture/display_cabinet_mp_1_1_glass_mp_1.png" id="1_cc1ts"]
+
+[resource]
+resource_name = "glass_mp_1"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_cc1ts")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

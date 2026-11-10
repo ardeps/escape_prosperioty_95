@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://ccwburckpcygq"]
+
+[ext_resource type="Texture2D" uid="uid://c2a28t0yboswv" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Props/barricade_b_4_barricade_hm_2.png" id="1_kdmuq"]
+
+[resource]
+resource_name = "barricade_hm_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_kdmuq")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

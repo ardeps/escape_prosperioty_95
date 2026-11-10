@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://b875sr2y655l0"]
+
+[ext_resource type="Texture2D" uid="uid://b2681075cmrcu" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Weapons & Tools/sickle_mx_1_sickle_mx_1.png" id="1_kefqq"]
+
+[resource]
+resource_name = "sickle_mx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_kefqq")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

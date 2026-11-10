@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bafyejaysetrq"]
+
+[ext_resource type="Texture2D" uid="uid://f8e8h5hw234s" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Weapons & Tools/machete_mx_1_machete_mx_1.png" id="1_uoslu"]
+
+[resource]
+resource_name = "machete_mx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_uoslu")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

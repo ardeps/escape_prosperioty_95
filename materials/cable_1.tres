@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://ciulxksqtt0fr"]
+
+[ext_resource type="Texture2D" uid="uid://dseibyt7ckame" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/tunnel_1_cable_1.png" id="1_7cwuj"]
+
+[resource]
+resource_name = "cable_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_7cwuj")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

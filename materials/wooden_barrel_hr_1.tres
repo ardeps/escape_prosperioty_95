@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cfvf8mkakm5k6"]
+
+[ext_resource type="Texture2D" uid="uid://cshbdj8ldt460" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/wooden_barrel_1_wooden_barrel_hr_1.png" id="1_vits6"]
+
+[resource]
+resource_name = "wooden_barrel_hr_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_vits6")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

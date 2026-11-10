@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://twauusm6042l"]
+
+[ext_resource type="Texture2D" uid="uid://cboiouqm776gx" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Large Props/metal_barrel_mp_1_metal_barrel_mp_1.png" id="1_4akas"]
+
+[resource]
+resource_name = "metal_barrel_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_4akas")
+metallic = 0.2
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

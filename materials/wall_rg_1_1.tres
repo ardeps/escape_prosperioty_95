@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://8bv6vb5am2ny"]
+
+[ext_resource type="Texture2D" uid="uid://wn67ichsdo2q" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/ramp_platform_slim_mx_1_wall_rg_1_1.png" id="1_dymv1"]
+
+[resource]
+resource_name = "wall_rg_1_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_dymv1")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

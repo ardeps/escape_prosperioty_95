@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://i23eqq5ito1i"]
+
+[ext_resource type="Texture2D" uid="uid://de60mlw68b8ve" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Structures/water_tower_hm_1_wall_rgx_1.png" id="1_xe4lj"]
+
+[resource]
+resource_name = "wall_rgx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_xe4lj")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

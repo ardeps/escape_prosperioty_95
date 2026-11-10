@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://tksb5wfbq3c6"]
+
+[ext_resource type="Texture2D" uid="uid://bj6hhetdiarrg" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Small Props/plate_mp_1_plate_mp_1.png" id="1_k1fbn"]
+
+[resource]
+resource_name = "plate_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_k1fbn")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dyq3mh73ffmxc"]
+
+[ext_resource type="Texture2D" uid="uid://cnk5wxqqndq4n" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Buildings/shed_ax_4_door_hr_10.png" id="1_4k468"]
+
+[resource]
+resource_name = "door_hr_10"
+cull_mode = 2
+albedo_texture = ExtResource("1_4k468")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

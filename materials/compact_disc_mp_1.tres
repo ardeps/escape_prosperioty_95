@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://61e88wxri3d8"]
+
+[ext_resource type="Texture2D" uid="uid://b2synlme85b2h" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/compact_disc_mp_1_compact_disc_mp_1.png" id="1_cgf2i"]
+
+[resource]
+resource_name = "compact_disc_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_cgf2i")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

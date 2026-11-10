@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://clp50l4omsd1o"]
+
+[ext_resource type="Texture2D" uid="uid://bxdfjx12j1tlg" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/key_mp_4_keys_mp_1.png" id="1_07778"]
+
+[resource]
+resource_name = "keys_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_07778")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dl4rc1e0ukyjl"]
+
+[ext_resource type="Texture2D" uid="uid://b1ru743qpi064" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/first_aid_kit_hr_1_first_aid_kit_hr_1.png" id="1_aspsx"]
+
+[resource]
+resource_name = "first_aid_kit_hr_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_aspsx")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

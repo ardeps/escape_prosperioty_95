@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cse8fbxvjnekt"]
+
+[ext_resource type="Texture2D" uid="uid://b1lr1vq2ypi2m" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/garage_door_frame_rg_2_garage_door_hm_3.png" id="1_wyg0a"]
+
+[resource]
+resource_name = "garage_door_hm_3"
+cull_mode = 2
+albedo_texture = ExtResource("1_wyg0a")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

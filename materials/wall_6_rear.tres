@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://8jq5n7mrbcs"]
+
+[ext_resource type="Texture2D" uid="uid://degy2tufqvdan" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/side_doorway_2_1_wall_6.png" id="1_qjljh"]
+
+[resource]
+resource_name = "wall_6_rear"
+cull_mode = 2
+albedo_texture = ExtResource("1_qjljh")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

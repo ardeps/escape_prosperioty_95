@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://ddxj0jsparlsa"]
+
+[ext_resource type="Texture2D" uid="uid://cp0ahtywvyqb2" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/floppy_disc_1_floppy_disc_1.png" id="1_c2fjx"]
+
+[resource]
+resource_name = "floppy_disc_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_c2fjx")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

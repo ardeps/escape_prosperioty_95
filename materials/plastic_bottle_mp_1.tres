@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://8ycannsj260f"]
+
+[ext_resource type="Texture2D" uid="uid://13bj1wff2ab2" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/plastic_bottle_mx_1_dirty_squashed_plastic_bottle_mp_1.png" id="1_1i36b"]
+
+[resource]
+resource_name = "plastic_bottle_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_1i36b")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

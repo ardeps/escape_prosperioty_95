@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://couyt4ivqu8og"]
+
+[ext_resource type="Texture2D" uid="uid://cfpq6yiwywer0" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Weapons & Tools/misc_tool_mx_1_misc_tool_mx_1.png" id="1_2ciei"]
+
+[resource]
+resource_name = "misc_tool_mx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_2ciei")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

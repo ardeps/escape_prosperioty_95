@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://ch82kaltva8kr"]
+
+[ext_resource type="Texture2D" uid="uid://11hdbexdsl1p" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Large Props/vending_machine_1_vending_machine_1.png" id="1_qv7ca"]
+
+[resource]
+resource_name = "vending_machine_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_qv7ca")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

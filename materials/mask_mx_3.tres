@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dwpwl5ys7x5fn"]
+
+[ext_resource type="Texture2D" uid="uid://cptmb8xcvqxf" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Masks/mask_mx_3_1_mask_mx_3.png" id="1_i0aba"]
+
+[resource]
+resource_name = "mask_mx_3"
+albedo_texture = ExtResource("1_i0aba")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

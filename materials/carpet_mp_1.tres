@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://tkjkg8bx8poh"]
+
+[ext_resource type="Texture2D" uid="uid://b02ikkterxsnt" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Large Props/carpet_mp_1_carpet_mp_1.png" id="1_ug73e"]
+
+[resource]
+resource_name = "carpet_mp_1"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_ug73e")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

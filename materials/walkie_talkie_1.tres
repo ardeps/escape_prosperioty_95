@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://jlpqa1j0oxqr"]
+
+[ext_resource type="Texture2D" uid="uid://d3wb37l36d1c0" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/walkie_talkie_1_walkie_talkie_1.png" id="1_2foas"]
+
+[resource]
+resource_name = "walkie_talkie_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_2foas")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

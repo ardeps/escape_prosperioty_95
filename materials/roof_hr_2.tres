@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://r5doplafcwtn"]
+
+[ext_resource type="Texture2D" uid="uid://x64jie73wbmd" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/roof_small_hr_2_roof_hr_2.png" id="1_bdqkb"]
+
+[resource]
+resource_name = "roof_hr_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_bdqkb")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

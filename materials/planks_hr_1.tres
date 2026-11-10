@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dgegrx24sbr46"]
+
+[ext_resource type="Texture2D" uid="uid://boolv0h26wlyd" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Buildings/shed_ax_3_planks_hr_1.png" id="1_yl07g"]
+
+[resource]
+resource_name = "planks_hr_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_yl07g")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

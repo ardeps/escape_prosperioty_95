@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://db5pxneqofy1e"]
+
+[ext_resource type="Texture2D" uid="uid://brrf7n77lxuql" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Buildings/garage_hm_2_garage_door_hm_7.png" id="1_mj8av"]
+
+[resource]
+resource_name = "garage_door_hm_7"
+cull_mode = 2
+albedo_texture = ExtResource("1_mj8av")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

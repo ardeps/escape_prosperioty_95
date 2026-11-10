@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dmsju1d5tjhgy"]
+
+[ext_resource type="Texture2D" uid="uid://ubrrr2jky4sx" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/id_mp_1_1_identification_mp_1.png" id="1_huwex"]
+
+[resource]
+resource_name = "identification_mp_1"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_huwex")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

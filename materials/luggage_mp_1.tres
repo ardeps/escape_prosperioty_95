@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bn28glflikmdm"]
+
+[ext_resource type="Texture2D" uid="uid://b02dkc60shril" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/luggage_mp_1_luggage_mp_1.png" id="1_v6kic"]
+
+[resource]
+resource_name = "luggage_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_v6kic")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

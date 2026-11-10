@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cqg57gov06tgv"]
+
+[ext_resource type="Texture2D" uid="uid://d1cywa3ytqr2a" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Weapons & Tools/baseball_bat_mx_1_baseball_bat_mx_1.png" id="1_tfojl"]
+
+[resource]
+resource_name = "baseball_bat_mx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_tfojl")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

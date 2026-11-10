@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dlrvvxf10h5a0"]
+
+[ext_resource type="Texture2D" uid="uid://df5qta36i5mr8" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/police_baton_mp_1_misc_mp_2.png" id="1_sq6em"]
+
+[resource]
+resource_name = "misc_mp_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_sq6em")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

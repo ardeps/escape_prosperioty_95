@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dksrm8djikwly"]
+
+[ext_resource type="Texture2D" uid="uid://c2wv4i76gfgm0" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Buildings/warehouse_mx_4_window_mx_2.png" id="1_m85by"]
+
+[resource]
+resource_name = "window_mx_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_m85by")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

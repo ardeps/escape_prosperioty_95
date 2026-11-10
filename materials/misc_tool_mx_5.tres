@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c1a1hpeamc5kw"]
+
+[ext_resource type="Texture2D" uid="uid://dj8g2ghtj6knx" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Weapons & Tools/misc_tool_mx_5_misc_tool_mx_5.png" id="1_gersi"]
+
+[resource]
+resource_name = "misc_tool_mx_5"
+cull_mode = 2
+albedo_texture = ExtResource("1_gersi")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

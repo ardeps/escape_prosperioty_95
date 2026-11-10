@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c16amrkl6igvd"]
+
+[ext_resource type="Texture2D" uid="uid://dfaxgs3hubnau" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Electronics & Misc/pc_mouse_mp_2_pc_accessories_mp_1.png" id="1_ph8ee"]
+
+[resource]
+resource_name = "pc_accessories_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_ph8ee")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

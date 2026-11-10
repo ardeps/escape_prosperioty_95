@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bhf3b7nyhkbxj"]
+
+[ext_resource type="Texture2D" uid="uid://b6tcpsauiileg" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Small Props/potted_cactus_mp_1_potted_cactus_mp_1.png" id="1_qp0bq"]
+
+[resource]
+resource_name = "potted_cactus_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_qp0bq")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

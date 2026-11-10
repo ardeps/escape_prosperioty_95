@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bkdt437hvqq5d"]
+
+[ext_resource type="Texture2D" uid="uid://dlvxk4tlan4lu" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/shelf_mx_7_planks_hr_4.png" id="1_qs5an"]
+
+[resource]
+resource_name = "planks_hr_4"
+cull_mode = 2
+albedo_texture = ExtResource("1_qs5an")
+roughness = 0.0
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

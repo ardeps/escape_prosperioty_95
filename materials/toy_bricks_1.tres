@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://hr7hn1pibuf"]
+
+[ext_resource type="Texture2D" uid="uid://sovoybo6cknw" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Small Props/toy_brick_1_3_toy_bricks_1.png" id="1_1us2m"]
+
+[resource]
+resource_name = "toy_bricks_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_1us2m")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

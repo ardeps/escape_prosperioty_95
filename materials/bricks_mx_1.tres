@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cljn30wnfmx3c"]
+
+[ext_resource type="Texture2D" uid="uid://csiq4tusk4f13" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Debris & Misc/debris_bricks_mx_2_0_bricks_mx_1.png" id="1_rlhik"]
+
+[resource]
+resource_name = "bricks_mx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_rlhik")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

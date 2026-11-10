@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bujxb3v66qsr3"]
+
+[ext_resource type="Texture2D" uid="uid://dhogmbk1psx68" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/lighter_mp_1_1_lighters_mp_1.png" id="1_0jxng"]
+
+[resource]
+resource_name = "lighters_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_0jxng")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

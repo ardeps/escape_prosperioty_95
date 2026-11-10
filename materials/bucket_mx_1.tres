@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c1clmwgj5oqrq"]
+
+[ext_resource type="Texture2D" uid="uid://bysp3xrqrt6ev" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Props/bucket_mx_1_bucket_mx_1.png" id="1_cfglj"]
+
+[resource]
+resource_name = "bucket_mx_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_cfglj")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

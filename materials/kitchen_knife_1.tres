@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://b0rihyg5ivk3l"]
+
+[ext_resource type="Texture2D" uid="uid://7q6jl7on1mtw" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/butcher_knife_mp_1_kitchen_knife_1.png" id="1_p4yk1"]
+
+[resource]
+resource_name = "kitchen_knife_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_p4yk1")
+metallic = 0.1
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

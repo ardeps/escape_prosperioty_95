@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://5svytc11uj60"]
+
+[ext_resource type="Texture2D" uid="uid://cybqwyivyqmkb" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/pipe_valve_holder_large_2_1_pipe_mp_1.png" id="1_cqpmq"]
+
+[resource]
+resource_name = "pipe_mp_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_cqpmq")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

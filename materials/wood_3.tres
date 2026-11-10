@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://4dp8n51ad8tp"]
+
+[ext_resource type="Texture2D" uid="uid://cl0l0oy8nufou" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Furniture/shelf_mp_5_1_wood_3.png" id="1_fckd6"]
+
+[resource]
+resource_name = "wood_3"
+cull_mode = 2
+albedo_texture = ExtResource("1_fckd6")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

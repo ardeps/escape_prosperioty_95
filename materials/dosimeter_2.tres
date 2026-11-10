@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bljj8wyqm70wj"]
+
+[ext_resource type="Texture2D" uid="uid://dl03rdh13vuy4" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/dosimeter_2_dosimeter_2.png" id="1_5byll"]
+
+[resource]
+resource_name = "dosimeter_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_5byll")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

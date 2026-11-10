@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cps5r1l3krh6"]
+
+[ext_resource type="Texture2D" uid="uid://c82ud7lvmhoxf" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Modular Structures/elevator_doorway_3_elevator_call_button_1.png" id="1_bnjp2"]
+
+[resource]
+resource_name = "elevator_call_button_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_bnjp2")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

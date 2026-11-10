@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dvvevurx7aahi"]
+
+[ext_resource type="Texture2D" uid="uid://bq51n5rxfcpcb" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Small Props/padlock_1_padlock_1.png" id="1_r5ru5"]
+
+[resource]
+resource_name = "padlock_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_r5ru5")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

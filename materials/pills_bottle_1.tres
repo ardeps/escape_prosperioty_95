@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c5cxjriud0cju"]
+
+[ext_resource type="Texture2D" uid="uid://1xhyi8gbjcaf" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/pills_packet_1_pills_bottle_1.png" id="1_rc2dy"]
+
+[resource]
+resource_name = "pills_bottle_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_rc2dy")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

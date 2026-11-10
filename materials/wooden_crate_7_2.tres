@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cw7hjch76k7he"]
+
+[ext_resource type="Texture2D" uid="uid://duge5kdtcf7yj" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Large Props/supply_crate_1_2_empty_wooden_crate_7_2.png" id="1_ib4jc"]
+
+[resource]
+resource_name = "wooden_crate_7_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_ib4jc")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

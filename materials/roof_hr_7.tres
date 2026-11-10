@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cwfq7o1au2nt2"]
+
+[ext_resource type="Texture2D" uid="uid://bu863wdla3pf" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Buildings/warehouse_mx_4_1_roof_hr_7.png" id="1_0esug"]
+
+[resource]
+resource_name = "roof_hr_7"
+cull_mode = 2
+albedo_texture = ExtResource("1_0esug")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

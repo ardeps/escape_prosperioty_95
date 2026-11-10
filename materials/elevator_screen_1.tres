@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://0bnpeljln1v5"]
+
+[ext_resource type="Texture2D" uid="uid://ots26ipmnu1j" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Electronics & Misc/elevator_screen_1_elevator_screen_1.png" id="1_dun0u"]
+
+[resource]
+resource_name = "elevator_screen_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_dun0u")
+texture_filter = 2
+texture_repeat = false
+metadata/_gltf_primary_texture_coord = 0

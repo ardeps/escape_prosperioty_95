@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://mkvidjld6sdf"]
+
+[ext_resource type="Texture2D" uid="uid://bdvnb31igcwny" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Electronics & Misc/vent_3_vent_3.png" id="1_pfmnt"]
+
+[resource]
+resource_name = "vent_3"
+cull_mode = 2
+albedo_texture = ExtResource("1_pfmnt")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

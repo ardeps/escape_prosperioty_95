@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://8xi748d758f2"]
+
+[ext_resource type="Texture2D" uid="uid://bdy7a72lp3j7" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Weapons & Tools/glass_bottle_mx_3_broken_glass_bottle_mx_3.png" id="1_544fb"]
+
+[resource]
+resource_name = "glass_bottle_mx_3"
+albedo_texture = ExtResource("1_544fb")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

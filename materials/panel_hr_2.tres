@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://b4r6bi1conmhb"]
+
+[ext_resource type="Texture2D" uid="uid://cdhs5ndhabfea" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Structures/boiler_hx_4_panel_hr_2.png" id="1_ull7d"]
+
+[resource]
+resource_name = "panel_hr_2"
+cull_mode = 2
+albedo_texture = ExtResource("1_ull7d")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

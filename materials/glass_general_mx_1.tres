@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://572srpswgwn1"]
+
+[ext_resource type="Texture2D" uid="uid://dvt6d36eim83d" path="res://Assets/Models/Asset Packs/PSX Mega Pack II/Models/GLB (recommended)/Modular Structures/roof_bx_1_side_glass_general_mx_1.png" id="1_1at3f"]
+
+[resource]
+resource_name = "glass_general_mx_1"
+transparency = 4
+cull_mode = 2
+albedo_color = Color(1, 1, 1, 0.6)
+albedo_texture = ExtResource("1_1at3f")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0

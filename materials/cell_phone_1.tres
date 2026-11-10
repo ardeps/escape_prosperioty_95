@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bc70wn8iqalwb"]
+
+[ext_resource type="Texture2D" uid="uid://bochk21ip2ur8" path="res://Assets/Models/Asset Packs/PSX Mega Pack/Models/GLB (recommended)/Items & Weapons/cell_phone_1_cell_phone_1.png" id="1_e3tfp"]
+
+[resource]
+resource_name = "cell_phone_1"
+cull_mode = 2
+albedo_texture = ExtResource("1_e3tfp")
+texture_filter = 2
+metadata/_gltf_primary_texture_coord = 0
